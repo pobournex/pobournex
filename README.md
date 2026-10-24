@@ -16,6 +16,4 @@ DevOps / Cloud / SRE engineer. I build infrastructure as code, run Kubernetes, a
 | [hybrid-identity-lab](https://github.com/pobournex/hybrid-identity-lab) | On-prem Active Directory synced to Entra ID, with Azure RBAC, PIM, Conditional Access and app SSO, including a real lockout and recovery |
 | [self-hosted-ai-infrastructure](https://github.com/pobournex/self-hosted-ai-infrastructure) | Private LLM platform on Proxmox: Ollama and Open WebUI in an LXC container |
 
-## Contact
 
-[LinkedIn](https://www.linkedin.com/in/obour-b-philip-1b47b3341/)
